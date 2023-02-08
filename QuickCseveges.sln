@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickCseveges", "QuickCseveges\QuickCseveges.csproj", "{252F9ED1-709E-4FC9-8C69-DF31FB175D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252F9ED1-709E-4FC9-8C69-DF31FB175D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252F9ED1-709E-4FC9-8C69-DF31FB175D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252F9ED1-709E-4FC9-8C69-DF31FB175D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252F9ED1-709E-4FC9-8C69-DF31FB175D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DF8AF9-2E99-43E8-BFD8-06A83C703F1D}
+	EndGlobalSection
+EndGlobal
